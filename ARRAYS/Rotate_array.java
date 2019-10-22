@@ -1,4 +1,5 @@
 package ARRAYS;
+//adding some comment
 
 import java.util.Scanner;
 
