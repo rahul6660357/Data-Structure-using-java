@@ -51,7 +51,7 @@ root= new_Node;
     public static void main(String args[])
     {
         LevelOrder_Traversal ll= new LevelOrder_Traversal();
-        int arr[]={7, 4, 12, 3, 6, 8, 1, 5, 10};
+        int arr[]={4,6,8,10,18,15,21,22};
         Node root= constructor(arr, arr.length);
         System.out.println("Inorder Traversal");
         ll.print(root);
